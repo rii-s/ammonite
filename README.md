@@ -56,7 +56,3 @@ docs/NOTES.md              running notes on shader design and parameters
 
 Shaders are imported as strings via `vite-plugin-glsl`, which also resolves
 `#include ../chunks/foo.glsl;` lines.
-
-## Connecting to GitHub
-
-I'll do this manually.
