@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "slevesque.shader",
+    "circledev.glsl-canvas",
+    "anthropic.claude-code"
+  ]
+}
